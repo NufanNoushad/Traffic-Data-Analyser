@@ -1,4 +1,4 @@
-# Traffic CSV Data Analyse
+# Traffic CSV Data Analyser
 
 Welcome to the Traffic Data Analyser built with Python! 🚀
 
