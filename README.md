@@ -12,4 +12,4 @@ The Traffic Flow Data Analysis System is a Python-based application designed to 
 - Able to loop the code and use a different set of CSV data to analyse.
 
 🛠️ Tools:
-- Python
+- Python, Pandas, NumPy
